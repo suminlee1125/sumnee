@@ -1,4 +1,0 @@
-This is Honik Univ. School Of Games GameSoftware Graduation project.
-
-Made by. Major : GameSoftware   B677023 이수민
-
